@@ -72,7 +72,8 @@ pip install Numpy
 
 
 Installing Plink for Running the Multinomial Script:
-*Important:* To successfully run the script "Step5_multinomial.R", you need to install plink.
+
+**Important:**   To successfully run the script "Step5_multinomial.R", you need to install plink.
 The script outputs logs to:
   - /output/SNPfilter.log
   - /output/SNPraw.log
